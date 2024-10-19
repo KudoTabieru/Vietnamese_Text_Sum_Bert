@@ -1,0 +1,1 @@
+The main purpose of this thesis project is to design a website for summarizing documents such as questions relative to the health scientist for Vietnamese using AI. The software enables the users input the documents in the health scientist and the output is the summarized documents.
